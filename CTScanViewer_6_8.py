@@ -2,6 +2,7 @@
 Created By: George Lecakes
 Version: 6.6
 Additions:
+	6.9 - Git Test
 	6.8 - UVW Transform added
 	6.7 - Improved transfer GUI system added
 	6.6 - Transfer function shader system added 
